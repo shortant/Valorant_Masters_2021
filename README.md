@@ -1,5 +1,5 @@
 # Valorant_Masters_2021
-an exploration into the stats of teams and their players participating in the 2021 Valiant Masters Tournament.
+an exploration into the stats of teams and their players participating in the 2021 Valorant Masters Tournament.
 Valorant Masters 2021 & Player Earnings Analyzation for Linear Regression Prediction
 
 
