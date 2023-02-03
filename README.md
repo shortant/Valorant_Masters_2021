@@ -3,7 +3,7 @@ an exploration into the stats of teams and their players participating in the 20
 Valorant Masters 2021 & Player Earnings Analyzation for Linear Regression Prediction
 
 Requires:
-Code IDE
+Code IDE</b>
 Tableau Dashboard
 
 # ***Dataset Introduction:***
