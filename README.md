@@ -40,3 +40,12 @@ Our training model did very well scoring nearly perfect, but unfortunately the t
 
 The fitted model was now in a usable state to predict any earnings for unknown players. From our masters data set, I filtered through once again, but this time keeping players that lacked an earnings column. Our new data frame now contained all of our players lacking an earnings column. Not forgetting our dummy variables I once again changed our categorical  variables, and they were ready for prediction. All I have  to do from here is convert my data frame into a dictionary, and finally call the index of whichever player I want to estimate, drop their name, and save to a converted list. A complete dictionary is added near the bottom of the workbook,  and the player Effys was run through the model to predict their earnings for proof of concept. A continuation of this project might be running each player through our model iteratively, and adding their earnings into a new complete data frame for future use of other developers.
 The purpose of this project was a deeper understanding into the professional scene of valorant, what made up the factors of a high performing player, and to use this data to create a model for earning predictions. All portfolio project steps are connected to this summary for replicability and viewing. Hopefully, through this analysis users have a clearer understanding of the top players and teams, and how individuals might impact the revenue flow of a team’s enterprise.
+
+
+### Tableau account
+
+https://public.tableau.com/app/profile/anthony.shortt
+
+### LinkedIn
+
+www.linkedin.com/in/anthonyshortt
